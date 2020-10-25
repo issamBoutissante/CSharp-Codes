@@ -1,0 +1,13 @@
+C:\Users\bouti\OneDrive\سطح المكتب\review some advanced topics in c#\delegates\bin\Debug\netcoreapp3.1\delegates.exe
+C:\Users\bouti\OneDrive\سطح المكتب\review some advanced topics in c#\delegates\bin\Debug\netcoreapp3.1\delegates.deps.json
+C:\Users\bouti\OneDrive\سطح المكتب\review some advanced topics in c#\delegates\bin\Debug\netcoreapp3.1\delegates.runtimeconfig.json
+C:\Users\bouti\OneDrive\سطح المكتب\review some advanced topics in c#\delegates\bin\Debug\netcoreapp3.1\delegates.runtimeconfig.dev.json
+C:\Users\bouti\OneDrive\سطح المكتب\review some advanced topics in c#\delegates\bin\Debug\netcoreapp3.1\delegates.dll
+C:\Users\bouti\OneDrive\سطح المكتب\review some advanced topics in c#\delegates\bin\Debug\netcoreapp3.1\delegates.pdb
+C:\Users\bouti\OneDrive\سطح المكتب\review some advanced topics in c#\delegates\obj\Debug\netcoreapp3.1\delegates.AssemblyInfoInputs.cache
+C:\Users\bouti\OneDrive\سطح المكتب\review some advanced topics in c#\delegates\obj\Debug\netcoreapp3.1\delegates.AssemblyInfo.cs
+C:\Users\bouti\OneDrive\سطح المكتب\review some advanced topics in c#\delegates\obj\Debug\netcoreapp3.1\delegates.csproj.CoreCompileInputs.cache
+C:\Users\bouti\OneDrive\سطح المكتب\review some advanced topics in c#\delegates\obj\Debug\netcoreapp3.1\delegates.dll
+C:\Users\bouti\OneDrive\سطح المكتب\review some advanced topics in c#\delegates\obj\Debug\netcoreapp3.1\delegates.pdb
+C:\Users\bouti\OneDrive\سطح المكتب\review some advanced topics in c#\delegates\obj\Debug\netcoreapp3.1\delegates.genruntimeconfig.cache
+C:\Users\bouti\OneDrive\سطح المكتب\review some advanced topics in c#\delegates\obj\Debug\netcoreapp3.1\delegates.csprojAssemblyReference.cache

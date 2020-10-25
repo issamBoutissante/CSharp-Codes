@@ -1,0 +1,13 @@
+C:\Users\bouti\OneDrive\سطح المكتب\review some advanced topics in c#\Genirics\bin\Debug\netcoreapp3.1\Genirics.exe
+C:\Users\bouti\OneDrive\سطح المكتب\review some advanced topics in c#\Genirics\bin\Debug\netcoreapp3.1\Genirics.deps.json
+C:\Users\bouti\OneDrive\سطح المكتب\review some advanced topics in c#\Genirics\bin\Debug\netcoreapp3.1\Genirics.runtimeconfig.json
+C:\Users\bouti\OneDrive\سطح المكتب\review some advanced topics in c#\Genirics\bin\Debug\netcoreapp3.1\Genirics.runtimeconfig.dev.json
+C:\Users\bouti\OneDrive\سطح المكتب\review some advanced topics in c#\Genirics\bin\Debug\netcoreapp3.1\Genirics.dll
+C:\Users\bouti\OneDrive\سطح المكتب\review some advanced topics in c#\Genirics\bin\Debug\netcoreapp3.1\Genirics.pdb
+C:\Users\bouti\OneDrive\سطح المكتب\review some advanced topics in c#\Genirics\obj\Debug\netcoreapp3.1\Genirics.csprojAssemblyReference.cache
+C:\Users\bouti\OneDrive\سطح المكتب\review some advanced topics in c#\Genirics\obj\Debug\netcoreapp3.1\Genirics.AssemblyInfoInputs.cache
+C:\Users\bouti\OneDrive\سطح المكتب\review some advanced topics in c#\Genirics\obj\Debug\netcoreapp3.1\Genirics.AssemblyInfo.cs
+C:\Users\bouti\OneDrive\سطح المكتب\review some advanced topics in c#\Genirics\obj\Debug\netcoreapp3.1\Genirics.csproj.CoreCompileInputs.cache
+C:\Users\bouti\OneDrive\سطح المكتب\review some advanced topics in c#\Genirics\obj\Debug\netcoreapp3.1\Genirics.dll
+C:\Users\bouti\OneDrive\سطح المكتب\review some advanced topics in c#\Genirics\obj\Debug\netcoreapp3.1\Genirics.pdb
+C:\Users\bouti\OneDrive\سطح المكتب\review some advanced topics in c#\Genirics\obj\Debug\netcoreapp3.1\Genirics.genruntimeconfig.cache
