@@ -1,0 +1,7 @@
+C:\Users\bouti\OneDrive\Documents\CSharep-Codes\Linq\bin\Debug\Linq.exe.config
+C:\Users\bouti\OneDrive\Documents\CSharep-Codes\Linq\bin\Debug\Linq.exe
+C:\Users\bouti\OneDrive\Documents\CSharep-Codes\Linq\bin\Debug\Linq.pdb
+C:\Users\bouti\OneDrive\Documents\CSharep-Codes\Linq\obj\Debug\Linq.csprojAssemblyReference.cache
+C:\Users\bouti\OneDrive\Documents\CSharep-Codes\Linq\obj\Debug\Linq.csproj.CoreCompileInputs.cache
+C:\Users\bouti\OneDrive\Documents\CSharep-Codes\Linq\obj\Debug\Linq.exe
+C:\Users\bouti\OneDrive\Documents\CSharep-Codes\Linq\obj\Debug\Linq.pdb
