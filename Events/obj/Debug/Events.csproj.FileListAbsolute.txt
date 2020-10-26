@@ -1,0 +1,7 @@
+C:\Users\bouti\OneDrive\Documents\CSharep-Codes\Events\bin\Debug\Events.exe.config
+C:\Users\bouti\OneDrive\Documents\CSharep-Codes\Events\bin\Debug\Events.exe
+C:\Users\bouti\OneDrive\Documents\CSharep-Codes\Events\bin\Debug\Events.pdb
+C:\Users\bouti\OneDrive\Documents\CSharep-Codes\Events\obj\Debug\Events.csprojAssemblyReference.cache
+C:\Users\bouti\OneDrive\Documents\CSharep-Codes\Events\obj\Debug\Events.csproj.CoreCompileInputs.cache
+C:\Users\bouti\OneDrive\Documents\CSharep-Codes\Events\obj\Debug\Events.exe
+C:\Users\bouti\OneDrive\Documents\CSharep-Codes\Events\obj\Debug\Events.pdb
