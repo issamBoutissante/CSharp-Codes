@@ -1,0 +1,7 @@
+C:\Users\bouti\OneDrive\Documents\CSharep-Codes\Extension_Methods\bin\Debug\Extension_Methods.exe.config
+C:\Users\bouti\OneDrive\Documents\CSharep-Codes\Extension_Methods\bin\Debug\Extension_Methods.exe
+C:\Users\bouti\OneDrive\Documents\CSharep-Codes\Extension_Methods\bin\Debug\Extension_Methods.pdb
+C:\Users\bouti\OneDrive\Documents\CSharep-Codes\Extension_Methods\obj\Debug\Extension_Methods.csprojAssemblyReference.cache
+C:\Users\bouti\OneDrive\Documents\CSharep-Codes\Extension_Methods\obj\Debug\Extension_Methods.csproj.CoreCompileInputs.cache
+C:\Users\bouti\OneDrive\Documents\CSharep-Codes\Extension_Methods\obj\Debug\Extension_Methods.exe
+C:\Users\bouti\OneDrive\Documents\CSharep-Codes\Extension_Methods\obj\Debug\Extension_Methods.pdb
